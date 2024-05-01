@@ -2,7 +2,7 @@
   "name": "webcrawler",
   "version": "1.0.0",
   "description": "",
-  "main": "crawler.js",
+  "main": "main.js",
   "scripts": {
     "test": "jest"
   },
